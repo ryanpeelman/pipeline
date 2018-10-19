@@ -1,0 +1,14 @@
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\bin\Debug\netcoreapp2.1\chpipelinerunner.deps.json
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\bin\Debug\netcoreapp2.1\chpipelinerunner.runtimeconfig.json
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\bin\Debug\netcoreapp2.1\chpipelinerunner.runtimeconfig.dev.json
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\bin\Debug\netcoreapp2.1\chpipelinerunner.dll
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\bin\Debug\netcoreapp2.1\chpipelinerunner.pdb
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.csprojAssemblyReference.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.csproj.CoreCompileInputs.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.RazorAssemblyInfo.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.RazorAssemblyInfo.cs
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.AssemblyInfoInputs.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.AssemblyInfo.cs
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.dll
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinerunner\obj\Debug\netcoreapp2.1\chpipelinerunner.pdb

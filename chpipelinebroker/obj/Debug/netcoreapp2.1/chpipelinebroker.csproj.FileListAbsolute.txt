@@ -1,0 +1,14 @@
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\bin\Debug\netcoreapp2.1\chpipelinebroker.deps.json
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\bin\Debug\netcoreapp2.1\chpipelinebroker.runtimeconfig.json
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\bin\Debug\netcoreapp2.1\chpipelinebroker.runtimeconfig.dev.json
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\bin\Debug\netcoreapp2.1\chpipelinebroker.dll
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\bin\Debug\netcoreapp2.1\chpipelinebroker.pdb
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.csprojAssemblyReference.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.csproj.CoreCompileInputs.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.RazorAssemblyInfo.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.RazorAssemblyInfo.cs
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.AssemblyInfoInputs.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.AssemblyInfo.cs
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.RazorTargetAssemblyInfo.cache
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.dll
+C:\Source\Repos\ConnectedHealthPlatform\chpipelinebroker\obj\Debug\netcoreapp2.1\chpipelinebroker.pdb
